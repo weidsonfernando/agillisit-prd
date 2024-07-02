@@ -1,4 +1,4 @@
-<h1 align="center">🚀 AgillisIT</h1>
+<h1 align="center">🚀</h1>
 <img src="https://" />
 <h1 align="center">Um sistema de tickets baseado em mensagens do WhatsApp.</h1> 
 
