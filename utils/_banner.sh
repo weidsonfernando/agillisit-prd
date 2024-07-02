@@ -33,7 +33,7 @@ printf ${CYAN_LIGHT}"|____| |____|  |_|      \n";
 
 
 
-  printf "            \033[1;33m        © AgillisIT - https://www.agillisit.com\n";
+  printf "            \033[1;33m        © AT - https://www.at\n";
   printf "${NC}";
 
   printf "\n"
