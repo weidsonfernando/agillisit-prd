@@ -201,14 +201,14 @@ software_dominio() {
 inquiry_options() {
   
   print_banner
-  printf "${WHITE} 💻 Bem vindo(a) ao Gerenciador AgillisIT, selecione abaixo a proxima ação!${GRAY_LIGHT}"
+  printf "${WHITE} 💻 Bem vindo(a) ao Gerenciador AIT, selecione abaixo a proxima ação!${GRAY_LIGHT}"
   printf "\n\n"
-  printf "   [0] Instalar AgillisIT\n"
-  printf "   [1] Atualizar AgillisIT\n"
-  printf "   [2] Deletar AgillisIT\n"
-  printf "   [3] Bloquear AgillisIT\n"
-  printf "   [4] Desbloquear AgillisIT\n"
-  printf "   [5] Alter. dominio AgillisIT\n"
+  printf "   [0] Instalar AIT\n"
+  printf "   [1] Atualizar AIT\n"
+  printf "   [2] Deletar AIT\n"
+  printf "   [3] Bloquear AIT\n"
+  printf "   [4] Desbloquear AIT\n"
+  printf "   [5] Alter. dominio AIT\n"
   printf "\n"
   read -p "> " option
 
